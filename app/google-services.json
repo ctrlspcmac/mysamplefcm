@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775497451836",
+    "project_id": "my-sample-fcm-ihh",
+    "storage_bucket": "my-sample-fcm-ihh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775497451836:android:366d06b9cf2cb8defa7639",
+        "android_client_info": {
+          "package_name": "com.sample.ihh.plement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775497451836-hnjv4o9kvekji04b3qspklvhcqi0lbb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhax6q69zV_bkpzFQYrCmKqj0PZA4Xb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775497451836-hnjv4o9kvekji04b3qspklvhcqi0lbb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
